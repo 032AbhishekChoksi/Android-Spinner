@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidSpinnerDemo</string>
+    <string-array name="food_array">
+        <item>Pizza</item>
+        <item>Burger</item>
+        <item>Dhosa</item>
+        <item>Pani Puri</item>
+    </string-array>
+</resources>
